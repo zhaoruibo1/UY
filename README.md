@@ -206,7 +206,7 @@ id="canvas"></CANVAS>             </DIV></DIV>
 		    var together = new Date();
 		    together.setFullYear(2017,09 ,20); //时间年月日			
 		    together.setHours(07);						//小时	
-		    together.setMinutes(32);//分钟					
+		    together.setMinutes(42);//分钟					
 		    together.setSeconds(0);					//秒前一位
 		    together.setMilliseconds(55);				//秒第二位
 
