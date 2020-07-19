@@ -1,3 +1,12 @@
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?f24d69e18f4bfb82c7f46e0c46a576c1";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 <SCRIPT LANGUAGE="JavaScript">
 function password() {
 var testV = 1;
