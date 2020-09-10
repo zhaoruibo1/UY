@@ -247,7 +247,7 @@ id="canvas"></CANVAS>             </DIV></DIV>
                 <div id="copyright">
                     <div align=" center"><span style="font-size:40px;font-weight:bold;color:pink;">欢迎来到王悠阳&赵瑞博的小窝
 		    <div class="bg3">	
-		<div class="main">
+		
 			<footer style="line-height:-50px">
                 <div id="copyright">
                     <div align=" center"><a href="shuju/首页.html" style="font-style: normal; font-weight: 400;"><span style="font-size:20px;font-weight:bold;color:pink;">首页
