@@ -245,7 +245,7 @@ id="canvas"></CANVAS>             </DIV></DIV>
 		<div class="main">
 			<footer style="line-height:40px">
                 <div id="copyright">
-                    <div align=" center"><span style="font-size:40px;font-weight:bold;color:pink;">王悠阳&赵瑞博
+                    <div align=" center"><span style="font-size:35px;font-weight:bold;color:pink;">王悠阳&赵瑞博
 		    <div class="bg3">	
 		
 			<footer style="line-height:-50px">
