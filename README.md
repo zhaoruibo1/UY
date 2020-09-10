@@ -243,7 +243,7 @@ id="canvas"></CANVAS>             </DIV></DIV>
     </SCRIPT>    
     <div class="bg2">	
 		<div class="main">
-			<footer style="line-height:40px">
+			<footer style="line-height:30px">
                 <div id="copyright">
                     <div align=" center"><span style="font-size:35px;font-weight:bold;color:pink;">王悠阳&赵瑞博
 		    <div class="bg3">	
