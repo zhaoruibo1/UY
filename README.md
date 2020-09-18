@@ -20,7 +20,7 @@ break;
 } 
 testV+=1;
 var pass1 = 
-prompt('每天都要开心哟');
+prompt('哼，不对');
 }
 if (pass1!="password" & testV ==3)               
 history.go(-1);
