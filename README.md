@@ -10,11 +10,11 @@ var _hmt = _hmt || [];
 <SCRIPT LANGUAGE="JavaScript">
 function password() {
 var testV = 1;
-var pass1 = prompt('还会回来吗？');
+var pass1 = prompt('请输入暗号？');
 while (testV < 3) {
 if (!pass1) 
 history.go(-1);
-if (pass1 == "会") {
+if (pass1 == "渣男") {
 alert('暗号正确，果然是我媳妇!');
 break;
 } 
